@@ -1,13 +1,3 @@
-backend/venv/
-.venv/
-__pycache__/
-*.pyc
-.DS_Store
-.env
-airports_raw.csv
-.vercel
-.env*
-
 # Data & CSV files
 backend/data/
 backend/*.csv
